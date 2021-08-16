@@ -1,0 +1,89 @@
+#home{
+    background-image: url(./bc.jpg);
+    background-position: center;
+    background-size:cover;
+    height: 800px;
+    
+}
+#home{
+    font-family: cursive;
+    font-weight: bold;
+    
+}
+#home h1{
+    padding: 50px;
+    margin: 50px;
+    font-size: xx-large;
+    font-style: italic;
+    color:white;
+    
+    
+}
+#home h2{
+    padding: 20px;
+    color:white;
+}
+#topbooks{
+    background-color:whitesmoke;
+}
+#topbooks h3{
+    font-family: cursive;
+    font-weight: bold;
+    padding: 40px;
+}
+
+
+.martin img{
+    padding: 20px;
+
+}
+.martin p{
+    font-size: large;
+    font-family: cursive;
+    font-weight: bold;
+    padding: 20px;
+}
+.topbooks img{
+    width: 240px;
+    height: 300px;
+    padding: 5px;
+    margin: 40px;
+}
+#ordernow h3{
+    font-family: cursive;
+    font-weight: bold;
+    padding: 40px;
+    margin: 40px;
+    
+}
+#ordernow{
+    background-color: whitesmoke;
+}
+.form-group{
+    font-family: cursive;
+}
+marquee{
+    background-color: red;
+    font-size: xx-large;
+    padding: 10px;
+    font-family: cursive;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+#ourstore{
+    font-family: cursive;
+    padding: 40px;
+    background-color: whitesmoke;
+}
+#ourstore h3{
+    padding: 20px;
+    font-size: xx-large;
+    font-weight: bold;
+    margin: 20px;
+
+}
+#ourstore address{
+    padding: 20px;
+    font-size: large;
+    font-weight: bold;
+}
