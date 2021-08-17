@@ -24,7 +24,7 @@
     color:white;
 }
 #topbooks{
-    background-color:whitesmoke;
+    background-color:thistle;
 }
 #topbooks h3{
     font-family: cursive;
@@ -57,13 +57,13 @@
     
 }
 #ordernow{
-    background-color: whitesmoke;
+    background-color:lightsteelblue;
 }
 .form-group{
     font-family: cursive;
 }
 marquee{
-    background-color: red;
+    background-color:snow;
     font-size: xx-large;
     padding: 10px;
     font-family: cursive;
@@ -73,7 +73,7 @@ marquee{
 #ourstore{
     font-family: cursive;
     padding: 40px;
-    background-color: whitesmoke;
+    
 }
 #ourstore h3{
     padding: 20px;
@@ -83,7 +83,24 @@ marquee{
 
 }
 #ourstore address{
-    padding: 20px;
+    padding: 10px;
     font-size: large;
     font-weight: bold;
+}
+#ordernow img{
+    width:500px;
+    height:400px;
+    margin-bottom: 20px;
+
+
+    
+}
+#ourstore{
+    
+    background-color: thistle;
+}
+#ourstore img{
+    width: 300px;
+    height:350px;
+
 }
